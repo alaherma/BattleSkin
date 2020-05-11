@@ -1,0 +1,7 @@
+It is an open source project that aims to create a low-cost DIY smart T-shirt that can be used to detect the impact of certain objects as softcombat weapons and displays “health bar” using LEDS .
+
+First Step
+Using the PMW capable (analogRead() and analogWrite()) pins from the arduino to test signal communication between 2 or more arduinos during hits. 
+
+Hit: a contact between a softcombat weapon and the battle skin t-shirt both of which have a conductive paint over its surface and are connected to the arduino, the contact time usually lasts less than a second and is sporadic.  
+
